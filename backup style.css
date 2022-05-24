@@ -1,0 +1,84 @@
+#lmail
+{
+		width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+#lpass
+{
+		width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+#usrname
+{
+		width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+#lpass:focus
+{
+		background-color: #ddd;
+  outline: none;
+}
+#lmail:focus
+{
+		background-color: #ddd;
+  outline: none;
+}
+
+
+/*signup tab*/
+#Email
+{
+		width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+#Passwd
+{
+		width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+#Usrname
+{
+		width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+#Usrname:focus
+{
+		background-color: #ddd;
+  outline: none;
+}
+#Passwd:focus
+{
+		background-color: #ddd;
+  outline: none;
+}
+#Email:focus
+{
+		background-color: #ddd;
+  outline: none;
+}
