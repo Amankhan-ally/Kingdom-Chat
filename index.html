@@ -908,6 +908,7 @@ getDoc(doc(db, 'Userscoll/'+ user.uid)).then(docSnap =>
     hidebottombar();
     cbrhide();
     hidetopnav();
+    hidefnav();
     
   }
 });
@@ -4129,7 +4130,10 @@ function cbrshow()
 {
 document.getElementById("cbar").style.visibility = "visible";
 }
-
+function hidefnav()
+{
+document.getElementById("fnav").style.visibility = "hidden";
+}
 function hidetopnav()
 {
 document.getElementById("topbar").style.visibility = "hidden";
