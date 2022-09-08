@@ -458,6 +458,7 @@ content-visibility: hidden;
 				color: white;
     top: 0;				
 				position: fixed;
+                                visibility: hidden;
 				justify-content: center;
 		/*	align-content: center;
 				align-items: center; */
